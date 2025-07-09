@@ -30,6 +30,7 @@ This project implements a two-fold approach to ensure content safety and authent
 - Deploy as a web API for real-time video analysis.
 
 ## **Contributors**
+- Chinmayi Purohit
 - Rakshit Jangid
 - Shreya Sachdeva
-- Chinmayi Purohit
+
